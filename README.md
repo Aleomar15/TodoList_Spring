@@ -7,8 +7,8 @@
 # Como executar a aplicação?
 
 Primeiramente deve estar instalado:
-- Mínimo [JDK-17].(https://download.oracle.com/java/17/archive/jdk-17.0.8_windows-x64_bin.exe)
-- E uma plataforma de API para desenvolvedores [Postman].(https://www.postman.com/downloads/)
+- Mínimo [JDK-17](https://download.oracle.com/java/17/archive/jdk-17.0.8_windows-x64_bin.exe).
+- E uma plataforma de API para desenvolvedores [Postman](https://www.postman.com/downloads/).
 
   
 Como faz para executa-lo?
